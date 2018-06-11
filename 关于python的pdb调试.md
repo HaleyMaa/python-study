@@ -31,7 +31,7 @@ pdb.set_trace()
 然后我在客户端去执行group_server_list请求时，在region中就会看到就会调用到这个函数，并进入调试模式。
 ![image](https://github.com/HaleyMaa/python-study/blob/master/2.png?raw=true)
 
-执行w命令就可以看到调用栈情况:
+执行w命令就可以看到调用栈情况
 
 ![image](https://github.com/HaleyMaa/python-study/blob/master/3.png?raw=true)
 
